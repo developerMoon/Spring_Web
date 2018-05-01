@@ -25,7 +25,7 @@
 							<p class="major">noun> a strong desire to rove or travel about.<br>
 							당신만의 특별한 여행을, 여기서</p>
 							<ul class="actions vertical">
-								<li><a href="#first" class="button big wide smooth-scroll-middle">추천 여행지</a></li>
+								<li><a href="#first" class="button big wide smooth-scroll-middle">#당신을 위한 여행지</a></li>
 							</ul>
 						</div>
 						<div class="image">
@@ -37,14 +37,14 @@
 				<!-- Two -->
 					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="first">
 						<div class="content">
-							<h2>Magna etiam feugiat</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.</p>
+							<h2>남들은 모르는 여행지</h2>
+							<p>전세계의 보물같은 여행지를 만나보세요</p>
 							<ul class="actions vertical">
-								<li><a href="#" class="button">Learn More</a></li>
+								<li><a href="#" class="button">Destination List</a></li>
 							</ul>
 						</div>
 						<div class="image">
-							<img src="/resources/images/spotlight01.jpg" alt="" />
+							<img src="/resources/images/positano.jpg" alt="" />
 						</div>
 					</section>
 
@@ -58,14 +58,14 @@
 							</ul>
 						</div>
 						<div class="image">
-							<img src="/resources/images/spotlight02.jpg" alt="" />
+							<img src="/resources/images/porto.jpg" alt="" />
 						</div>
 					</section>
 
 				<!-- Four -->
 					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
 						<div class="content">
-							<h2>Pharetra etiam nulla</h2>
+							<h2>How others travel</h2>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.</p>
 							<ul class="actions vertical">
 								<li><a href="#" class="button">Learn More</a></li>
